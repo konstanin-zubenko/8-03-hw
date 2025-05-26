@@ -26,7 +26,8 @@
 
 https://github.com/netology-code/sys-pattern-homework/compare/main...konstanin-zubenko:8-03-hw:main
 
-Скриншот команд из терминала ![alt text](https://github.com/konstanin-zubenko/8-03-hw/blob/main/mg/1.png)
+
+Скриншот команд из терминала ![alt text](https://github.com/konstanin-zubenko/8-03-hw/blob/main/img/1.png)
 
 
 
@@ -34,7 +35,7 @@ https://github.com/netology-code/sys-pattern-homework/compare/main...konstanin-z
 
 https://github.com/netology-code/sys-pattern-homework/commit/ff43db07410765b3668cd8410482f60a5df5444d
 
-Скриншот команд из терминала ![alt text](https://github.com/konstanin-zubenko/8-03-hw/blob/main/mg/2.png)
+Скриншот команд из терминала ![alt text](https://github.com/konstanin-zubenko/8-03-hw/blob/main/img/2.png)
 
 
 Задание 3
